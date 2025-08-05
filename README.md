@@ -1,4 +1,5 @@
 Sistema Bancário Simples - Desafio DIO PRO
+
 Este projeto é uma implementação de um sistema bancário simples, desenvolvido como parte de um desafio do bootcamp da DIO PRO. O objetivo é criar um sistema funcional que permita ao usuário realizar operações básicas de uma conta bancária, com controle de transações e registro de data e hora.
 
 ✨ Funcionalidades
