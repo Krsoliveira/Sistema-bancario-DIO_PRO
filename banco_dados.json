@@ -1,0 +1,25 @@
+{
+    "clientes": [
+        {
+            "nome": "Kaique Santo",
+            "data_nascimento": "24-09-1997",
+            "cpf": "70000370169",
+            "endereco": "aa, 15 - pizzolato - Rio verde/Go "
+        }
+    ],
+    "contas": [
+        {
+            "agencia": "0001",
+            "numero_conta": 1,
+            "cliente": {
+                "nome": "Kaique Santo",
+                "data_nascimento": "24-09-1997",
+                "cpf": "70000370169",
+                "endereco": "aa, 15 - pizzolato - Rio verde/Go "
+            },
+            "saldo": 150100000000.0,
+            "extrato": "[16-08-2025 13:44:00] Dep\u00f3sito:\tR$ 100000000.00\n[16-08-2025 14:00:24] Dep\u00f3sito:\tR$ 150.000.000.000,00\n\t\t(Cento e cinquenta bilh\u00f5es de reais)\n",
+            "numero_saques": 0
+        }
+    ]
+}
